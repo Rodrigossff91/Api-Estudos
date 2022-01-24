@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tree Inova\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tree Inova\\.nuget\\packages"
+    ]
+  }
+}

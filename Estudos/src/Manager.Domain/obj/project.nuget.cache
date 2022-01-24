@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpHQYGgx1zo68AoRQIqfv6dqgsqrGvI9IzvKOAA5IV9ixnwElXvaL/YqOuip66Oraom7NXGxgFI95Sg5nEuBhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tree Inova\\Desktop\\Estudos\\src\\Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tree Inova\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
